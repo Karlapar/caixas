@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+.padre {
+	padding: 20px;
+	background: rgb(44, 136, 255);
+}
+
+.hijo {
+	padding: 20px;
+	background: rgb(137, 202, 255);
+}

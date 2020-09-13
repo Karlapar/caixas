@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	font-family: sans-serif, Georgia, Times, "Times New Roman", serif;
+}
+body {
+	margin: 1%;
+}
+header {
+	display: flex;
+	justify-content: center;
+	height: 150px;
+	background: #c2c2fa;
+	color: darkred;
+	font-size: 26px;
+}
+nav {
+	display: flex;
+	height: 100px;
+	background: #6758ca;
+	font-size: 24px;
+	color: floralwhite;
+}
+div > main {
+	display: flex;
+	height: 400px;
+	background: gray;
+	font-size: 24px;
+}
